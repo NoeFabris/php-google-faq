@@ -1,0 +1,11 @@
+header h1{
+    padding: 20px;
+}
+
+.my-nav{
+    flex-direction: row;
+}
+
+.my-nav li{
+    padding: 20px;
+}
